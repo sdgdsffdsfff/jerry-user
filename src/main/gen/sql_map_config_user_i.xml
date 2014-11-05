@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    由系统于2014-10-29 19:42:21生成，请勿人为进行任何修改！
+-->
+<!DOCTYPE configuration PUBLIC "-//ibatis.apache.org//DTD Config 3.0//EN" "http://ibatis.apache.org/dtd/ibatis-3-config.dtd">
+<configuration>
+    <mappers>
+        <mapper resource="com/hehua/user/dao/OrderRcRecord-sqlmap.xml"/>
+    </mappers>
+</configuration>
